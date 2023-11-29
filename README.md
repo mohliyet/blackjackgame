@@ -26,7 +26,7 @@ To check if you have Python installed, open your terminal/command prompt and run
 
 1. Clone this repository to your local machine:
 
-   `git clone https://github.com/mohliyet/blackjack-game.git`
+   `git clone https://github.com/mohliyet/blackjackgame.git`
 2. Navigate to the project directory:
 
    `cd blackjack-game`
